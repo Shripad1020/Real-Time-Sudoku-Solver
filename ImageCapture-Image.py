@@ -6,7 +6,7 @@ from imutils.perspective import four_point_transform
 count = 0
 
     # converting image to grayscale and then applying blurs to remove noise
-frame=cv2.imread(r"D:\TRF IP TASK\suduko\sudo.jpg")
+frame=cv2.imread("sudoku.jpg")
 img = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
 thresh = cv2.GaussianBlur(img, (55, 55), 3)
 
