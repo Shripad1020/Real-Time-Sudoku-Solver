@@ -6,3 +6,6 @@
 *.jpg
 *.gif
 *.png
+
+#Python
+/__pycache__
