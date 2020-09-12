@@ -7,7 +7,7 @@ Completed games are always an example of a Latin square, including an additional
 In this project we aim to create a real time Sudoku solver which recognise the elements of Sudoku puzzle and providing a digital solution using Computer vision.
 
 ## To Do...
-- [X] Finding Bigest contour.
+- [X] Finding biggest contour.
 - [ ] Four point transform on Video image.
 - [ ] Finding Digits from IMG. 
 - [X] HandWritten MNIST dataset / OCR for number detection. 
