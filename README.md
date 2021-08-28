@@ -9,8 +9,8 @@ In this project we aim to create a real time Sudoku solver which recognise the e
 ## To Do...
 - [X] Finding biggest contour.
 - [X] Four point transform on Video image.
-- [ ] Finding Digits from IMG. 
+- [X] Finding Digits from IMG. 
 - [X] HandWritten MNIST dataset / OCR for number detection. 
-- [ ] Make everything modular programming (OOP).
-- [ ] Sodoku Algorithm.
-- [ ] Display solve sodoku on IMG / create IMG of solve sudoku.
+- [X] Make everything modular programming (OOP).
+- [X] Sodoku Algorithm.
+- [X] Display solve sodoku on IMG / create IMG of solve sudoku.
